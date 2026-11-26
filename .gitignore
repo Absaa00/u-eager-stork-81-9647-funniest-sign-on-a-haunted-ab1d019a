@@ -1,0 +1,11 @@
+# Haunted server room sign entry - local junk only
+__pycache__/
+*.pyc
+*.pyo
+/output/
+*.log
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+*~
