@@ -9,3 +9,8 @@ Thumbs.db
 *.tmp
 *.swp
 *~
+
+# kit artifacts (never commit)
+kit.tar.gz
+kit-headers.txt
+*-kit/
